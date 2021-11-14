@@ -1,1 +1,3 @@
-# DeepLearning_BuildingRecognizer
+# 딥러닝 해커톤 건물 분류기  
+
+* 앙상블,전이학습 추가될 예정
